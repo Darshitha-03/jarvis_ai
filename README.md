@@ -1,21 +1,21 @@
-# 🧠 Jarvis AI – Local RAG-Based Assistant
+# Jarvis AI – Local RAG-Based Assistant
 
 A locally hosted AI assistant that answers user queries based on custom documents using Retrieval-Augmented Generation (RAG). Supports both text and scanned PDF documents via OCR.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📄 Document ingestion (TXT and PDF)
-- 🔍 Semantic search using vector embeddings
-- 🧠 Context-aware response generation using LLM
-- 🖥️ Interactive web interface (Flask + JavaScript)
-- 🔎 OCR support for scanned PDFs using Tesseract
-- 💾 Persistent vector storage using ChromaDB
+-  Document ingestion (TXT and PDF)
+-  Semantic search using vector embeddings
+-  Context-aware response generation using LLM
+-  Interactive web interface (Flask + JavaScript)
+-  OCR support for scanned PDFs using Tesseract
+-  Persistent vector storage using ChromaDB
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - Python
 - Flask
@@ -28,7 +28,7 @@ A locally hosted AI assistant that answers user queries based on custom document
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Documents are loaded and split into smaller chunks
 2. Each chunk is converted into embeddings
@@ -40,7 +40,7 @@ A locally hosted AI assistant that answers user queries based on custom document
 
 ---
 
-## 📦 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the repository
 
