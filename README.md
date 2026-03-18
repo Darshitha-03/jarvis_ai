@@ -45,5 +45,5 @@ A locally hosted AI assistant that answers user queries based on custom document
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/jarvis_ai.git
+git clone https://github.com/Darshitha-03/jarvis_ai.git
 cd jarvis_ai
