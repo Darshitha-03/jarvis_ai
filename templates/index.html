@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JARVIS AI</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+
+<body>
+
+<!-- BACKGROUND -->
+<canvas id="bg-canvas"></canvas>
+
+<!-- HUD HOLOGRAM CIRCLES -->
+<div id="hud">
+    <div id="circle1" class="hud-circle"></div>
+    <div id="circle2" class="hud-circle"></div>
+    <div id="circle3" class="hud-circle"></div>
+</div>
+
+<!-- BOOT SCREEN -->
+<div id="boot-text"></div>
+
+
+<!-- MAIN UI -->
+<div id="main-ui" style="display:none;">
+
+    <h2 style="text-align:center;">J.A.R.V.I.S Neural Console</h2>
+
+    <div id="chat-box">
+        <div id="messages"></div>
+    </div>
+
+    <div id="input-bar">
+        <input type="text" id="user-input" placeholder="Ask Jarvis...">
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+</div>
+
+<script src="/static/js/background.js"></script>
+<script src="/static/js/boot.js"></script>
+<script src="/static/js/main.js"></script>
+
+</body>
+</html>

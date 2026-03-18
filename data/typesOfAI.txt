@@ -1,0 +1,255 @@
+Types of AI | Different Types of Artificial Intelligence
+Systems
+fossguru.com/types-of-ai-different-types-of-artificial-intelligence-systems
+Artificial intelligence is the mimic of the human brain. Almost all the sectors have reached
+the touch of AI. But the importance varies from segment to segment. So there is the
+requirement to study different types of artificial intelligence. Some of the books and
+websites show that there are 3 types of knowledge in AI. On the other hand, some people
+recommend 4 main categories of artificial intelligence. In our study, we found a total of 7
+types of AI.
+The 3 Types of AI
+AI can be classified in different ways. There are three types of artificial intelligence in
+terms of functionality. On the other hand, there are 3 types of AI in terms of components.
+We will discuss all the classifications.
+1/13
+1. Artificial Narrow Intelligence (ANI)
+The machine is extremely good at doing one task but limited to extending its capacity to
+perform another task. It is widely known as narrow AI or weak AI. Narrow AI is limited to
+a specific area to perform a single task.
+2/13
+Artificial Narrow Intelligence (ANI) is widely known as narrow AI. It focuses on only
+narrow tasks or one problem. Weak AI and narrow AI are the same. However, it was the
+initial stage of artificial intelligence. 
+At present, AI is not referring to narrow AI. Instead, it refers to strong AI. Weak AI does
+not support simultaneous tasks. But, it does the job with the highest level of accuracy. It
+can not identify the reasons, but it can relieve you from doing a monotonous job. 
+Some examples of narrow AI:
+Google search and rankbrain by Google is the perfect example of weak AI.
+Virtual assistants of IBM’s Watson, 
+Crawling a webpage or playing chess.
+Chatbot, Siri by Apple, Alexa by Amazon, Cortana by Microsoft are the perfect
+example.
+2. Artificial General Intelligence (AGI)
+Strong AI is commonly known as Artificial General Intelligence (AGI). It is the
+superintelligence that suppresses human intelligence. It can mimic the cognitive abilities
+of the human brain.
+Strong AI is the perfect solution to solve the unfamiliar job. Whenever there are any
+difficulties and dissimilarities in making decisions, the strong AI can work there perfectly.
+Some of the readers ask the difference between AI and AGL. AGL is a part of AI. Some
+3/13
+researchers think that AGL is not possible because it is not possible to model our brains.
+Artificial General Intelligence (AGI), or strong AI is the future generation machine
+capable of performing all types of tasks. The main feature of strong AI is human-like,
+flexible thinking and reasoning. AGL is a hypothesis, and it is assumed that it will be
+invented within Quantum computing.
+Example of AGI: 
+Fuzzy logic for the next ten years.
+3. Artificial Super Intelligence (ASI)
+Artificial Super Intelligence (ASI) is the logical progression of AGI. It is a hypothetical AI
+that is beyond the human brain. ASI becomes self-aware and suppresses human capacity.
+It is based on science-fiction. In ASI, decision-making and problem-solving will be
+superior to human think Artificial Super Intelligence (ASI)ng.
+Engineers and scientists are still trying to achieve the functionalities of Artificial Super
+Intelligence (ASI). ASI is an imagination. We did not achieve it, but you can predict what
+will be happening after achieving it. It will represent humans with self-awareness and self
+vigilance. The human brain is limited to some billion neurons, but ASI has unlimited
+neurons.
+Example of ASI:
+4/13
+search engine algorithms like Rankbrain from Google, 
+voice assistant
+a multitude of the face and biometric recognition solutions, 
+e-commerce product recommendation tools
+Another 3 Catagories of AI
+When we discussed 3 types of AI, then we found three names which are Artificial Narrow
+Intelligence (ANI), Artificial General Intelligence (AGI), and Artificial Super Intelligence
+(ASI). ANI is narrow AI or weak AI, which is applicable for a specific task with limited
+memory. AGI is a strong AI that can compare with the thoughts of the mind. ASI is a
+superintelligence that does not exist till now. 
+The 4 types of Artificial Intelligence
+In 2016 we got an idea regarding AI from professor Arend Hintze of Michigan State
+University. He said we could categorize AI into four types. Which are: 
+1. Reactive machines
+Reactive machines are type 1 Artificial Intelligence that has no memory, and the task is
+specific. It does not tell previous experience and works only with predefined single logic.
+Reactive machines do not store previous memory to implement previous experience.
+Moreover, it is purely reactive and does not utilize pest experience.
+Example of Reactive machines:
+Deep Blue, the IBM chess program. In 1990 it beat Garry Kasparov.
+Playing video games on PC.
+2. Limited Memory Artificial Intelligence
+Limited memory is the type 2 AI system. It has limited memory that can be referenced to
+future decisions. It is one kind of machine learning model that especially learns from facts
+and events. Limited memory learns from the previous history and implements
+experiential knowledge by observing actions or data.
+Example of Limited memory:
+Self-driving cars
+3. Theory of Mind
+5/13
+6/13
+Theory of mind is psychological terminology. This social intelligence is applied to
+understand emotions. It predicts the behavior of human reactions. Computers are
+equipped with all types of emotions to read the human mind. It does not exist, but the
+development of the Theory of mind is in progress.
+Example of Theory of mind
+Autonomous cars
+4. Self-awareness AI
+Self-awareness AI is the application of common sense by the machine. All the predefined
+data is stored in the system, so whenever it needs action, it works automatically. This type
+of AI does not exist. 
+Example of Self-awareness AI:
+Self-awareness robot
+Terminator movies
+Google SkyNet
+DeepMind AI system
+Difference Between Strong and Weak Artificial Intelligence
+Artificial intelligence mainly depends and differentiates based on robust and weak AI.
+Strong AI is a complex algorithm that acts on different algorithms. Weak AI or narrow AI
+is confined to limited functionality. 
+Out of the 2 major types of artificial intelligence, we will differentiate between weak and
+strong AI. Here are the fundamental differences between Strong and Weak Artificial
+Intelligence. 
+Types of
+Difference
+Strong AI Weak AI
+Definition Strong artificial intelligence is a
+hypnotical machine that mimics human
+intelligence. 
+Weak Ai is the model view of
+intelligence that is used for a
+specific problem.
+Problem
+Solving
+Strong AI can think and solve problems
+on its own.
+Weak AI is defined widely but
+can do only narrow tasks. 
+Behavior It can exhibit strong cognitive behavior. It does not have a mind of its
+own.
+Learning Strong AI stores data and relearning is
+possible.
+Narrow AI does not save data
+and relearning is not possible.
+7/13
+Complexity Strong artificial intelligence has
+complex algorithms and it can perform
+based on different situations.
+Narrow AI based on simple
+algorithms to perform a specific
+type of work.
+Application Strong AI is a hypothetical concept that
+does not exist for us. We are
+proceeding towards this AI.
+Weak AI is useable for
+chatbots, eCommerce, and
+specific tasks.
+Example Quantum computing
+Fuzzy logic
+Google search and
+rankbrain by Google is
+the perfect example of
+weak AI.
+Virtual assistants of IBM’s
+Watson, Apple Siri, Alexa,
+crawling a webpage or
+playing chess
+4 Types of Artificial Intelligence Based on Functionalities
+Sometimes we define four forms of artificial intelligence based on functionalities.
+Firstly, a reactive machine is the primary type of AI that can not use previous data.
+IBM’s Deep blue is an example of a reactive machine. 
+Secondly, limited memory is the present form of AI that can look back past. Self driving cars are examples of this type 2 AI.
+Thirdly, the Theory of mind is a famous thought of AI. It can mimic humans and
+evaluate humans. 
+Finally, self-awareness AI is the future form of artificial intelligence. This type of AI
+does not exist. Within one decay, it will be available among us. 
+3 Forms of AI
+In terms of business application, we can classify 3 forms of AI. It is applied in business.
+The three types of AI is given below:
+1. Process automation
+Artificial intelligence process automation studies cognitive automation, machine learning,
+robotic process automation, and Unattended Robotics. In a variety of business processes,
+it can reduce human intervention. 
+IPA is simple and goes beyond rule-based tasks. It is often regarded as robotic process
+automation (RPA). The application of AI and ML takes far beyond the back and front
+office tasks. Moreover, IPA leverages machine learning algorithms to calculate real-time
+and historical data.
+2. Cognitive insight
+Cognitive insight is a wing of AI that utilizes artificial intelligence algorithms to collect
+large amounts of data, compile and determining the data. It provides a detailed and
+accurate model for predicting trends of consumer buying patterns.
+Examples of Cognitive insight:
+Finding the fraud of transactions
+Speed hiring processes
+automated job search and onboarding
+Automate advertisements and marketing
+3. Cognitive Engagement
+Cognitive engagement is the engagement of customers and businesses in practical ways
+with the use of AI. Nowadays, time is money. Customers want to know information within
+the shortest possible time. Implementation of an AI chatbot can be the best example of
+Cognitive engagement. It can serve up around-the-clock services. Moreover, Cognitive
+engagement ensures better service and consumer relations for further business
+expansion.
+What are the 5 main types of artificial intelligence
+Some of the experts thought there are broadly 5 types of artificial intelligence. This
+classification of AI is based on usability. The 5 main types of artificial intelligence
+categories are:
+8/13
+9/13
+1. Analytic AI
+Analytic AI is used for data-driven decision-making. It includes advanced-level deep
+learning and machine learning. Moreover, Analytic AI collects tons of data, processes and
+recommends the ultimate business insight.
+Example of Analytic AI: 
+Sentiment analysis, supplier risk assessment, inventory optimization, and demand
+forecasting are the example of analytic AI.
+2. Functional AI
+Functional AI is similar to Analytic AI. It collects tons of data, processes and does not
+recommend it. Instead of recommendation, it goes for action. 
+Example of Functional AI:
+10/13
+IoT Cloud can be connected with Functional AI and take adequate action whenever it
+needs.
+3. Interactive AI
+Interactive AI is the interactive communication system that predicts the needs of users. It
+can interact with humans as naturally as humans.
+Example of Interactive AI:
+Chatbot, the smart personal assistant, can be a perfect example of Interactive AI.
+Conversation and process verification is another common example of Interactive AI.
+3. Text AI
+Text AI is the present form of artificial intelligence that can process text. Google, Amazon,
+Apple, and almost all the big organizations have text AI services.
+Example of Text AI:
+Speech-to-text conversion, machine translation, text recognition, and content generation
+capabilities are examples of artificial text intelligence.
+4. Visual AI
+Visual AI is the analysis and process of images, videos, and direct observations. In the
+manufacturing industry, we can see the Visual AI service.
+Example of Visual AI: 
+Face recognition solutions and the application for automated inspections are examples of
+visual AI.
+11/13
+The 7 Types of Artificial Intelligence
+According to Forbes, there are 7 types of artificial intelligence. The 7 categories of AI are
+Reactive Machines, Limited Memory, Theory of Mind, Artificial Narrow Intelligence
+(ANI), Artificial General Intelligence (AGI), and Artificial Superintelligence (ASI). Naveen
+Joshi, the writer of an article, showed all the 7 types of AI together. He showed all the
+classifications together.
+What Are the Types of Knowledge in AI?
+There are five types of knowledge in artificial intelligence. First for AI is Declarative
+Knowledge. It includes concepts, facts, and objects that are simpler than procedural
+language. 
+Second type if AI knowledge is Procedural Knowledge. This imperative knowledge is
+responsible for knowing the fact and ways to do it. Rules, strategies, procedures,
+agendas are the discussion point of Procedural Knowledge.
+The third type of AI is Meta-knowledge. It tells data regarding the data.
+Heuristic knowledge is the fourth type of AI knowledge that represents some
+expertises. It can refer to the experience.
+The fifth type of AI knowledge is Structural knowledge. It works for problem-solving
+and describes the relationship between object and concept.
+12/13
+Final Thought
+Based on different scenarios, there are different types of AI. Business and science use it
+based on the requirement. The type of artificial intelligence depends on its uses and
+application. Technology is constantly changing, and different forms of AI are discovering
+for further application.
+13/13

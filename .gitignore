@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+env/
+
+# Database
+jarvis_db/
+
+# Assets (IMPORTANT)
+Jarvis_Assets/
+
+# Large files
+*.exe
+*.zip
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Poppler / external tools
+poppler-*/

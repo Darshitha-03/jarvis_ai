@@ -1,0 +1,15 @@
+🧠 Big Concept Names (Say in Interview)
+
+You implemented:
+
+Cloud-based AI inference
+
+Client-server AI architecture
+
+Retrieval-Augmented Generation (RAG)
+
+Prompt engineering
+
+Instruction-tuned LLM
+
+API-based model serving
