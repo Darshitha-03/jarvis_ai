@@ -27,13 +27,30 @@
 
     <h2 style="text-align:center;">J.A.R.V.I.S Neural Console</h2>
 
-    <div id="chat-box">
-        <div id="messages"></div>
-    </div>
+    <!-- LAYOUT -->
+    <div id="layout">
 
-    <div id="input-bar">
-        <input type="text" id="user-input" placeholder="Ask Jarvis...">
-        <button onclick="sendMessage()">Send</button>
+        <!-- LEFT PANEL (FILES) -->
+        <div id="file-panel">
+            <h3>Memory Files</h3>
+            <ul id="file-list"></ul>
+
+            <input type="file" id="fileInput" hidden>
+            <button onclick="openFilePicker()">Upload File</button>
+        </div>
+
+        <!-- RIGHT PANEL (CHAT) -->
+        <div id="chat-panel">
+            <div id="chat-box">
+                <div id="messages"></div>
+            </div>
+
+            <div id="input-bar">
+                <input type="text" id="user-input" placeholder="Ask Jarvis...">
+                <button onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+
     </div>
 
 </div>

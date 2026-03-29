@@ -34,28 +34,14 @@ Question: {question}
 def jarvis_answer(question):
     from jarvis_core.retriever import retrieve
 
-    docs, metas = retrieve(question, top_k=3)
-
-# 🛡️ Safety check (DOES NOT break existing flow)
-    if not docs or docs == [None]:
-        return {
-            "answer": "I couldn't find relevant information.",
-            "chunks": [],
-            "metadata": []
-        }
-
-# 🛡️ Filter out None values (safe)
-    clean_docs = [doc for doc in docs if doc]
-
-    context = "\n".join(clean_docs)
+    docs, metas = retrieve(question, top_k=8)
+    context = "\n".join(docs)
 
     answer = generate_answer(context, question)
     print(answer)
-    print("📄 Retrieved docs:", docs)
 
     return {
         "answer": answer,
         "chunks": docs,
         "metadata": metas
     }
-      
