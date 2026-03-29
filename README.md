@@ -1,49 +1,78 @@
-# Jarvis AI – Local RAG-Based Assistant
+# Jarvis AI – Document Intelligence System
 
-A locally hosted AI assistant that answers user queries based on custom documents using Retrieval-Augmented Generation (RAG). Supports both text and scanned PDF documents via OCR.
-
----
+Jarvis AI is a locally hosted web application that enables users to upload documents and query their content using natural language. The system is built using a retrieval-augmented generation (RAG) pipeline.
 
 ## Features
 
--  Document ingestion (TXT and PDF)
--  Semantic search using vector embeddings
--  Context-aware response generation using LLM
--  Interactive web interface (Flask + JavaScript)
--  OCR support for scanned PDFs using Tesseract
--  Persistent vector storage using ChromaDB
+- Document ingestion (TXT, PDF, ODT)
+- Automatic text extraction and chunking
+- Semantic search using vector embeddings
+- Context-aware response generation using a language model
+- File-specific querying support
+- Persistent vector storage using ChromaDB
 
----
+## Architecture
 
-##  Tech Stack
+Upload → Processing → Embedding → Storage → Retrieval → Response Generation
+
+## Technology Stack
 
 - Python
 - Flask
-- ChromaDB (Vector Database)
-- Sentence Transformers (Embeddings)
-- HuggingFace Inference API
-- Tesseract OCR
-- Poppler (PDF processing)
+- ChromaDB
+- Hugging Face Inference API (Qwen 2.5)
 - HTML, CSS, JavaScript
 
----
+## Project Structure
 
-##  How It Works
+jarvis_core/
+- uploader.py
+- retriever.py
+- generator.py
+- vector_store.py
 
-1. Documents are loaded and split into smaller chunks
-2. Each chunk is converted into embeddings
-3. Stored in ChromaDB vector database
-4. On user query:
-   - Relevant chunks are retrieved
-   - Passed as context to LLM
-   - Final answer generated
+templates/
+static/
+app.py
 
----
+## Setup Instructions
 
-##  Setup Instructions
+1. Clone the repository
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Darshitha-03/jarvis_ai.git
+git clone https://github.com/Darshitha-03/jarvis_ai.git  
 cd jarvis_ai
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Run the application
+
+python app.py
+
+4. Open in browser
+
+http://127.0.0.1:5000
+
+## Usage
+
+- Upload a document through the interface
+- Ask questions related to the uploaded content
+- The system retrieves relevant information and generates a response
+
+## Notes
+
+- Uploaded files are stored locally and not included in the repository
+- The vector database is maintained locally
+- Designed for single-user usage
+
+## Future Work
+
+- Multi-user support
+- File management interface
+- Improved retrieval ranking
+- Streaming responses
+
+## Author
+
+Darshitha
