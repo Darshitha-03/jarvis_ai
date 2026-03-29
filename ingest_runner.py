@@ -6,8 +6,13 @@ import pytesseract
 import os
 
 # 🔧 Set paths
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-POPPLER_PATH = r"C:\Users\LENOVO\Desktop\Jarvis_Web\Jarvis_Assets\poppler-25.12.0\Library\bin"
+import os
+
+TESSERACT_PATH = os.getenv("TESSERACT_PATH", "")
+POPPLER_PATH = os.getenv("POPPLER_PATH", "")
+
+if TESSERACT_PATH:
+    pytesseract.pytesseract.tesseract_cmd = TESSERACT_PATH
 
 
 # 🔥 OCR FUNCTION (for PDFs)

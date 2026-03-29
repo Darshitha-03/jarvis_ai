@@ -193,3 +193,36 @@ button {
     0% { opacity: 0.8; }
     100% { opacity: 1; }
 }
+#layout {
+    display: flex;
+}
+
+/* LEFT FILE PANEL */
+#file-panel {
+    width: 20%;
+    border-right: 2px solid cyan;
+    padding: 10px;
+}
+
+#file-panel h3 {
+    text-align: center;
+}
+
+#file-list {
+    list-style: none;
+    padding: 0;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+#file-list li {
+    padding: 5px;
+    border-bottom: 1px solid cyan;
+    font-size: 14px;
+}
+
+/* RIGHT CHAT PANEL */
+#chat-panel {
+    width: 80%;
+    padding-left: 10px;
+}
